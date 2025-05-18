@@ -42,7 +42,7 @@
         <div class="header__container">
         <nav class="navMenu">
             <div class="headerLogo">
-                <a class = "logo" href="index.php">
+                <a class = "logo" href="api/index.php">
                     fetch
                 </a>
             </div>
